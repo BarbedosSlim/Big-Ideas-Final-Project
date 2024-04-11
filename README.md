@@ -1,7 +1,10 @@
 # Big-Ideas-Final-Project
 Team Name: Lightning Sharks
+
 Group Number: 41
+
 Our topic is "What neighborhood is best fit to survive an earthquake"
+
 Luke Thompson: lmt110@pitt.edu, Cole Caron: cdc111@pitt.edu, Pierce Chesney: pmc68@pitt.edu
 
 Population Density: Pierce Chesney
