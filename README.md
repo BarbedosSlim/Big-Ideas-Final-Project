@@ -7,4 +7,6 @@ Neighborhood population: [https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391
 
 Built Environment Conditions: [https://data.wprdc.org/dataset/pgh/resource/61a264ec-a537-42de-91e3-5752d689103d](https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/61a264ec-a537-42de-91e3-5752d689103d/download/built-enviornment-conditions.csv)
 
+Natural Environment Conditions:[https://data.wprdc.org/dataset/pgh/resource/14501cb9-308d-49ce-8bbb-7933ad703fe1](https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/14501cb9-308d-49ce-8bbb-7933ad703fe1/download/natural-environment-conditions.csv)
+
 We are examining what neighborhood would be the best fit to survive an earthquake based off of building conditions, population denstiy, and environment conditions (Landslides, underminded land). 
